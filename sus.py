@@ -1,3 +1,5 @@
+#Projetinho de Fila Médica em Python
+#Objetivo: Criar um sistema de gerenciamento de senhas, para uma clínica médica de atendimentos.
 import time
 
 class Paciente:
